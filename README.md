@@ -85,7 +85,7 @@ escolhidas por representarem aproximadamente 80% do volume processado em uma ref
 (1 - \phi_1 L - \phi_2 L^2 - \ldots - \phi_p L^p) \nabla^d y_t = (1 + \theta_1 L + \theta_2 L^2 + \ldots + \theta_q L^q) \epsilon_t
 ```
 
-Utilizei o modelo ARIMA para sérires temporais
+Utilizei o modelo ARIMA para séries temporais
 ### Confira em **model.ipynb** para observar os gráficos, interpretações e previsões.
 
 ---
