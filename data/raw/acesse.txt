@@ -1,0 +1,5 @@
+a base de dados é muito grande para ser upada no GitHub, acesse em: 
+
+https://www.jodidata.org/oil/database/data-downloads.aspx
+
+Download o "extended csv - primary" the e "extended csv - secondary"
